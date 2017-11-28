@@ -28,3 +28,11 @@ print(AA)
 
 
 # checking online version
+
+
+import pandas as pd
+d = {'First' : [1., 2., 3.],'Second' : [1,2,3]}
+
+
+AA = pd.DataFrame(d)
+print(AA)
