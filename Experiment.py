@@ -13,7 +13,3 @@ AA = pd.DataFrame(d)
 print(AA)
 
 # new line comment
-
-# more comment lines
-
-# yet more
