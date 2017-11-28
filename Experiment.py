@@ -12,6 +12,7 @@ d = {'First' : [1., 2., 3.],'Second' : [1,2,3]}
 AA = pd.DataFrame(d)
 print(AA)
 
+<<<<<<< HEAD
 # new line comment
 <<<<<<< HEAD
 
@@ -21,3 +22,6 @@ print(AA)
 =======
 # more new lines
 >>>>>>> parent of 043ac42... Revert "new chenge"
+=======
+# new line comment
+>>>>>>> new-branch
