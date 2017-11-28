@@ -13,7 +13,11 @@ AA = pd.DataFrame(d)
 print(AA)
 
 # new line comment
+<<<<<<< HEAD
 
 # more comment lines
 
 # yet more
+=======
+# more new lines
+>>>>>>> parent of 043ac42... Revert "new chenge"
